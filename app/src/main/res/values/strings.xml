@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T2_AventuraInteractiva</string>
+
+    <string name="main_title">Explora la Placa Base</string>
+    <string name="main_info_text">Toca los componentes en la placa base para aprender más sobre ellos.</string>
+
+    <string name="component_image_desc">Imagen del componente en detalle</string>
+    <string name="info_button_desc">Ver más información</string>
+
+    <string name="cpu_description">El zócalo del CPU es donde se instala el procesador.</string>
+    <string name="ram_description">Las ranuras RAM permiten instalar módulos de memoria.</string>
+    <string name="pcie_description">Los puertos PCIe sirven para conectar tarjetas gráficas y otros periféricos.</string>
+</resources>
