@@ -69,7 +69,8 @@ La aplicación debería iniciar mostrando la pantalla principal con la lista de 
 
 ## Capturas de pantalla
 
-*(Inserta aquí las imágenes tomadas desde el emulador o dispositivo, recomendadas en formato `.png` o `.jpg`)*
+![output](https://github.com/user-attachments/assets/10269e89-9b81-4818-b1f8-4a918ebec058)
+
 
 1. **Pantalla Principal – Lista de componentes**
 2. **Detalle del Componente – Vista resumida**
