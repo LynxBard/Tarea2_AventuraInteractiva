@@ -18,7 +18,7 @@ El objetivo es facilitar el aprendizaje de la arquitectura de hardware mediante 
 1. **Clonar o descargar el repositorio** en tu computadora.
 
    ```bash
-   git clone <url-del-repo>
+   git clone https://github.com/LynxBard/Tarea2_AventuraInteractiva.git
    ```
 
 2. **Abrir en Android Studio** (versión recomendada: **Android Studio Ladybug+ o superior**).
