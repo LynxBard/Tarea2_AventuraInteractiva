@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="hgreen">#33FF00</color>
+    <color name="colorPrimary">#FF1A7323</color>
+    <color name="colorPrimaryVariant">#FF0F4515</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+
+    <color name="colorSecondary">#FF5C8D63</color>
+    <color name="colorSecondaryVariant">#FF3E6F46</color>
+    <color name="colorOnSecondary">#FFFFFFFF</color>
+
+    <color name="backgroundColor">#FFF0F2F0</color>
+    <color name="textColor">#FF0D2B09</color>
 </resources>
+
+
+
+

@@ -3,19 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/background_light"
-    >
-    <!-- Fondo de la pantalla -->
-    <ImageView
-        android:id="@+id/background_image"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:scaleType="fitXY"
-        android:background="@drawable/pcb_bg"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+    android:background="?attr/pcbBackground">
 
     <!-- Imagen grande del componente (target de la transición).
          El transitionName se asignará desde DetailActivity en onCreate() con el valor recibido en el Intent. -->
@@ -38,10 +26,12 @@
         android:id="@+id/info_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginBottom="36dp"
         android:contentDescription="@string/info_button_desc"
         android:src="@android:drawable/ic_menu_info_details"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:layout_margin="16dp" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

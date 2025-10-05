@@ -16,8 +16,8 @@ class MotherboardFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflamos el mismo layout de activity_main.xml (contiene los hotspots)
-        return inflater.inflate(R.layout.activity_main, container, false)
+        // Infla el layout del fragmento
+        return inflater.inflate(R.layout.fragment_motherboard, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

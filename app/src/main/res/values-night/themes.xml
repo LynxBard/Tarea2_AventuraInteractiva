@@ -2,6 +2,16 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.T2_AventuraInteractiva" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="pcbBackground">@drawable/pcb_black_bg</item>
     </style>
+
+    <style name="Theme.T2_AventuraInteractiva" parent="Base.Theme.T2_AventuraInteractiva" />
 </resources>
