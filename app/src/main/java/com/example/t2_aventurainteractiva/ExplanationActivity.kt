@@ -77,7 +77,7 @@ class ExplanationActivity : AppCompatActivity() {
             finish() // Close the current activity
         }
     }
-
+    //Se agrega una animacion
     override fun finish() {
         super.finish()
         // Apply exit animation
