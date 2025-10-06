@@ -81,6 +81,10 @@ La aplicación debería iniciar mostrando la pantalla principal con la lista de 
 
 5. **Explicación Detallada – Información completa**
 
+| ![](https://github.com/user-attachments/assets/6bbd465d-8a79-4ea6-bf63-b5ba71acb6fb) | ![](https://github.com/user-attachments/assets/9b2ca8ce-29d6-47f2-ab89-c8a1286c84bd) |
+
+| ![](https://github.com/user-attachments/assets/f7cd5cf3-56fe-450e-80ea-e5cc011e3a5a) |
+
 ---
 
 ## Créditos
