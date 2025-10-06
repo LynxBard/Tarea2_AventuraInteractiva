@@ -69,7 +69,7 @@ La aplicación debería iniciar mostrando la pantalla principal con la lista de 
 
 ## Video: Uso de SharedPreferences 
 
-https://drive.google.com/file/d/104y0wEj2nMBmnC-Awuwjkto7aFegyNpS/view?usp=sharing
+[![Alt text](https://img.youtube.com/vi/l_JmBedqP08/0.jpg)](https://www.youtube.com/watch?v=l_JmBedqP08)
 
 ## Capturas de pantalla
 
