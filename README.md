@@ -67,6 +67,10 @@ La aplicación debería iniciar mostrando la pantalla principal con la lista de 
 
 ---
 
+## Video: Uso de SharedPreferences 
+
+https://drive.google.com/file/d/104y0wEj2nMBmnC-Awuwjkto7aFegyNpS/view?usp=sharing
+
 ## Capturas de pantalla
 
 1. **Pantalla Principal – Lista de componentes**
