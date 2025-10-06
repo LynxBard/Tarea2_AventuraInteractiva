@@ -69,12 +69,17 @@ La aplicación debería iniciar mostrando la pantalla principal con la lista de 
 
 ## Capturas de pantalla
 
-![output](https://github.com/user-attachments/assets/10269e89-9b81-4818-b1f8-4a918ebec058)
-
-
 1. **Pantalla Principal – Lista de componentes**
-2. **Detalle del Componente – Vista resumida**
-3. **Explicación Detallada – Información completa**
+
+![](https://github.com/user-attachments/assets/2f19e9e9-f64a-435a-92a5-52a7c3a1b458)
+
+3. **Detalle del Componente – Vista resumida**
+
+| ![](https://github.com/user-attachments/assets/c29afc44-4b26-414b-ba98-9ec752631e21) | ![](https://github.com/user-attachments/assets/f1206a8d-fdd6-47bc-8364-a4ce93881255) |
+
+| ![](https://github.com/user-attachments/assets/610774f4-24a2-4f34-8094-5ade3dced244) |
+
+5. **Explicación Detallada – Información completa**
 
 ---
 
